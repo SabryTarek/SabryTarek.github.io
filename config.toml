@@ -1,4 +1,4 @@
-baseurl = "sabrytarek.netlify.app"
+baseurl = "https://sabrytarek.netlify.app/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
